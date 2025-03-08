@@ -12,7 +12,17 @@ ArrayList()
 
 }
 
+class LinkedList
+{
+public:
+LinkedList()
+{}
+~LinkedList()
+{}
 
+
+
+}
 int main()
 {
 ArrayList A1;
